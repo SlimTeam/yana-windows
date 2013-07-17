@@ -1,7 +1,7 @@
 yana-windows
 ============
 
-Client vocale yana pour windows
+Interface vocal windows pour le serveur domotique Y.A.N.A
 
 Pré-requis
 ============
