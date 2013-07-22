@@ -17,4 +17,5 @@ Installation
 
 - Téléchargez et décompressez l'archive de yana windows
 - Sur votre pc windows,exécutez et installez ScanSoft Virginie_Dri40_16kHz.exe
-- Dans le dossier d'installation de Yana, paramétrez le fichier configuration.json
+- Lancez le programme puis faites un clic droit sur l'îcone de yana situé dans la barre de tâche et cliquez sur 'Configuration'
+- Configurez 'Adresse du serveur' avec l'adresse de votre yana-serveur ainsi que le 'token' de sécurité situé sur la page principale de votre yana-serveur
